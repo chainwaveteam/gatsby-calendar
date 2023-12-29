@@ -39,7 +39,7 @@ const IndexPage = ({ data, location }) => {
         <Product data={data.product.edges} />
         <Projects data={data.projects.edges} location={location} />
         <Team data={data.team.edges} />
-        <InlineWidget url="https://calendly.com/jamesspiess-f" 
+        <InlineWidget url="https://calendly.com/justin-i4g" 
         styles={{
           height: '850px'
         }} 
